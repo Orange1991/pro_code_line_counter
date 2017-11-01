@@ -1,0 +1,15 @@
+{
+  "name": "pro_code_line_counter",
+  "version": "0.0.1",
+  "description": "A nodejs tool used to count how many lines code under a project folder", 
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "nodejs",
+    "code",
+    "counter"
+  ],
+  "author": "sfg1991@163.com",
+  "license": "ISC"
+}
